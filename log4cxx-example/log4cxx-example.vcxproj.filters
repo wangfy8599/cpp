@@ -16,6 +16,7 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="ReadMe.txt" />
+    <None Include="log4cxx.properties" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="stdafx.h">
