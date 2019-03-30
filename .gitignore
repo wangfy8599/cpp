@@ -1,2 +1,5 @@
 /log4cxx-example/*.log
 /log4cxx-example/*.suo
+/log4cxx-example/logs
+/log4cxx-example/*.opensdf
+/log4cxx-example/*.sdf
